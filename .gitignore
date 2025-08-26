@@ -1,0 +1,8 @@
+# Build artifacts
+*.o
+*.skel.h
+trace_exec
+vmlinux.h
+
+# VSCode
+.vscode/
